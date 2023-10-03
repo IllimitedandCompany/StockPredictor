@@ -1,4 +1,4 @@
-// This function only works for predictions on timeframes below the Daily, for the Daily prediction use predictor2.
+// Code can be run on a local NodeJs Server (example: TradingServer but modified)
 // To know unknown ticker, check "financialmodelingprep.com"
 // ApiKey must be obtained in "financialmodelingprep.com"
 
