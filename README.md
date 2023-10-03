@@ -1,4 +1,4 @@
-# StockPredictor
+# StockPredictor 
 Machine Learning Repo, study performed on reliability of a stock prediction algorithm on full price action history.
 
 ## Stock Predictions are unreliable on a simple machine, not recommended to trade based on it alone.
