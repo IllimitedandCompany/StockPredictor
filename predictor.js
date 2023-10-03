@@ -5,7 +5,7 @@
 apiKey = "YourApiKey"
 ticker = "XAUUSD" // Gold against the Dollar
 timeframe = "4hour"
-
+ 
 async function predict(){
 	console.log("Computing prediction..")
 	let url = `https://financialmodelingprep.com/api/v3/historical-chart/${timeframe}/${ticker}?apikey=${apiKey}`
