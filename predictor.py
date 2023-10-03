@@ -1,5 +1,5 @@
 # Libraries must be installed before hand
-
+ 
 import requests
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
